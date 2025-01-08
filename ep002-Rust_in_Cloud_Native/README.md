@@ -22,6 +22,20 @@
 * Understanding and addressing cold starts is crucial for maintaining the performance and reliability of
   serverless applications.
 
+### Rustlings
+```shell
+mkdir -vp ~/Desktop/workspace/rust-lang; cd ~/Desktop/workspace/rust-lang
+rustc –verson
+cargo –version
+export PATH="${HOME}"/.cargo/bin:"${PATH}"
+cargo install rustlings
+rustlings init
+cd rustlings
+rustlings
+# in another terminal
+code .
+```
+
 ### Links
 * [Lambda Cold Starts Benchmark](https://maxday.github.io/lambda-perf) by [maxday](https://maxday.dev)
   - [maxday/lambda-perf](https://github.com/maxday/lambda-perf)
