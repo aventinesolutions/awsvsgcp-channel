@@ -26,3 +26,6 @@
 * [Lambda Cold Starts Benchmark](https://maxday.github.io/lambda-perf) by [maxday](https://maxday.dev)
   - [maxday/lambda-perf](https://github.com/maxday/lambda-perf)
 * [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+* [Amazon Low Latency Runtime awslabs/llrt](https://github.com/awslabs/llrt)
+* [Using the Amazon Linux 2023 Container for Lambdas](https://docs.aws.amazon.com/linux/al2023/ug/lambda.html)
+* [GraalVM](https://www.graalvm.org/) an efficient Java VM for Cloud Native and Serverless Functions
